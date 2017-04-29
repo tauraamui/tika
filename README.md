@@ -1,5 +1,4 @@
 # tika
 
 Discord BOT called tika
-
-http://imgur.com/hedHu9W
+![alt text](http://imgur.com/hedHu9W)
