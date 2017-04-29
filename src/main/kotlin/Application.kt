@@ -6,7 +6,7 @@ import core.TikaBotCore
 
 fun main(args: Array<String>) {
 
-    val tikaBotCore = TikaBotCore("MzA3Nzc5MTAwMTYzMTc4NDk2.C-XRKQ.HtoNznwlopxd1wFV8q8UMFx48n0")
+    val tikaBotCore = TikaBotCore(args[0])
     tikaBotCore.connect()
     tikaBotCore.setup()
 }
